@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="SegundoExamen.Site1" %>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registros Tecnicos</title>
+    <link rel="stylesheet" href="../css/StyleSheet1.css">
+
+
+</head>
+<body>
+
+    <header>
+        <a> <img src="../imagenes/ejea.png" /></a>
+        <nav>
+         
+            <a href="Home.aspx"id ="inicio">Inicio</a>
+            <a href="Asignacion.aspx"id="asignaciones">Asignaciones</a>
+            <a href="DetallesReparacion.aspx"id="detalle">Detalles de Reparación</a>
+            <a href="Equipo.aspx"id="equipo">Equipos</a>
+            <a href="Reparacion.aspx"id="repara">Reparaciones</a>
+            <a href="Tecnico.aspx"id="tecnico">Técnicos</a>
+            <a href="Usuario.aspx"id="usuario">Usuarios</a>
+
+        </nav>
+        <style>
+            #inicio {
+                background-color: #4CAF50;
+    color: white; 
+    font-weight: bold; 
+    
+            }
+            nav #inicio:hover {
+                background-color: crimson;
+            }
+ 
+        </style>
+     
+    </header>
+    <main>
+        <asp:ContentPlaceHolder ID="menuprincipal" runat="server"></asp:ContentPlaceHolder>
+    </main>
+
+     <footer>
+      <p>&copy; 2024 Equipo 4. Todos los derechos reservados.
+          Un trabajo realizado con mucho esfuerzo y dedicación  por los estudiantes de informatica de la UH/ Enrique Taleno / Aaron Solano / Jahir  / Elmer Picado &copy;
+      </p>
+         <Style>
+             footer
+             {
+                 
+                 color:white;
+                  text-align:center;
+                  background-color:black;
+                 
+              
+             }
+         </Style>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|c:\\users\\epica\\onedrive\\escritorio\\proyecto2\\segundoexamen\\vistas\\usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\tecnico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\tecnico.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\reparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\reparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\equipo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\equipo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\equipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\equipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\detallesreparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\detallesreparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\tecnico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\tecnico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\paginapricipal\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\paginapricipal\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\reparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\reparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\detallesreparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\detallesreparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\css\\formularios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\css\\formularios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\equipo.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\equipo.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\capalogica\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\capalogica\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\paginapricipal\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\paginapricipal\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\vistas\\asignacion.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\vistas\\asignacion.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\epica\\OneDrive\\Escritorio\\Reparaciones-Electronicas-2-GIF-938x130-GIF.gif||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\segundoexamen\\capalogica\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoProyecto.csproj|solutionrelative:segundoexamen\\capalogica\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\paginapricipal\\Site1.Master",
+              "RelativeDocumentMoniker": "SegundoExamen\\paginapricipal\\Site1.Master",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\paginapricipal\\Site1.Master",
+              "RelativeToolTip": "SegundoExamen\\paginapricipal\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T06:41:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reparacion.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Reparacion.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Reparacion.aspx",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Reparacion.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Reparacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T03:35:17.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tecnico.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Tecnico.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Tecnico.aspx",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Tecnico.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Tecnico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T04:19:35.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Usuario.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Usuario.aspx",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Usuario.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Usuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T04:35:05.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetallesReparacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\DetallesReparacion.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\DetallesReparacion.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\DetallesReparacion.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\DetallesReparacion.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:45:42.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equipo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Equipo.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Equipo.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Equipo.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Equipo.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:24:56.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Home.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:53:37.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reparacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Reparacion.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Reparacion.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Reparacion.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Reparacion.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:42:40.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tecnico.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Tecnico.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Tecnico.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Tecnico.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Tecnico.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:23:35.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Usuario.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Usuario.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Usuario.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Usuario.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:35:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asignacion.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Asignacion.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Asignacion.aspx",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Asignacion.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Asignacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T01:47:12.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Home.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Home.aspx",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Home.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T06:49:35.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asignacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:02:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Equipo.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Equipo.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Equipo.aspx",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Equipo.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Equipo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T03:22:20.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetallesReparacion.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\DetallesReparacion.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\DetallesReparacion.aspx",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\DetallesReparacion.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\DetallesReparacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T02:44:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "formularios.css",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\css\\formularios.css",
+              "RelativeDocumentMoniker": "SegundoExamen\\css\\formularios.css",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\css\\formularios.css",
+              "RelativeToolTip": "SegundoExamen\\css\\formularios.css",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T01:52:14.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Home.aspx.designer.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Home.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:53:40.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\css\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "SegundoExamen\\css\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\css\\StyleSheet1.css",
+              "RelativeToolTip": "SegundoExamen\\css\\StyleSheet1.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-19T05:00:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tecnicos.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\CapaLogica\\Tecnicos.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\CapaLogica\\Tecnicos.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\CapaLogica\\Tecnicos.cs",
+              "RelativeToolTip": "SegundoExamen\\CapaLogica\\Tecnicos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:56:18.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Equipo.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Equipo.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Equipo.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Equipo.aspx.designer.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Equipo.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:58:35.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\paginapricipal\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\paginapricipal\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\paginapricipal\\Site1.Master.cs",
+              "RelativeToolTip": "SegundoExamen\\paginapricipal\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:36:37.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Asignacion.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Asignacion.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Asignacion.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\Vistas\\Asignacion.aspx.designer.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Asignacion.aspx.designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:16:07.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Asignaciones.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\proyecto2\\SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "RelativeToolTip": "SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:46:56.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Reparaciones-Electronicas-2-GIF-938x130-GIF.gif",
+              "DocumentMoniker": "C:\\Users\\epica\\OneDrive\\Escritorio\\Reparaciones-Electronicas-2-GIF-938x130-GIF.gif",
+              "RelativeDocumentMoniker": "..\\Reparaciones-Electronicas-2-GIF-938x130-GIF.gif",
+              "ToolTip": "C:\\Users\\epica\\OneDrive\\Escritorio\\Reparaciones-Electronicas-2-GIF-938x130-GIF.gif",
+              "RelativeToolTip": "..\\Reparaciones-Electronicas-2-GIF-938x130-GIF.gif",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-19T05:25:36.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
